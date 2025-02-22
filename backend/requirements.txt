@@ -3,5 +3,4 @@ matplotlib==3.10.0
 pandas==2.2.3
 Pillow==11.1.0
 pytesseract==0.3.13
-tesseract-ocr
 seaborn==0.13.2
