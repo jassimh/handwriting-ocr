@@ -82,6 +82,10 @@ Example:
 
 ### **Please find the Sample Images to test under  ./frontend/src/Sample_test/**
 
+
+**UI Preview**
+![Sample Image](UI_Sample.png)
+
 ---
 
 ## 📌 Model Details
